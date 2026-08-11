@@ -22,7 +22,7 @@ const cormorant = Cormorant_Garamond({
 
 export const metadata = {
   title: "Prissammenligner",
-  description: "Sammenlign priser på dagligvarer fra Oda, Meny og Spar",
+  description: "Sammenlign priser på meierivarer fra Oda, Meny og Spar",
 }
 
 export default function RootLayout({ children }) {

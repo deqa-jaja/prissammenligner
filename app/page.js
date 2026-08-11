@@ -71,7 +71,7 @@ function Hero() {
         Prissammenligner
       </h1>
       <p className="mt-6 text-mocha max-w-xl mx-auto">
-        Sammenlign priser på meieri, frukt, kjøtt og mer fra{" "}
+        Sammenlign priser på melk, syrnet melk, sjokolademelk og proteindrikker fra{" "}
         <span className="italic font-serif text-ink">Oda</span>,{" "}
         <span className="italic font-serif text-ink">Meny</span> og{" "}
         <span className="italic font-serif text-ink">Spar</span>.
